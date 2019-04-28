@@ -1,0 +1,3 @@
+bean.target=cn.practice.BZhan._05_aop.IManagerImpl
+bean.advice=cn.practice.BZhan._05_aop.LogAdvice
+bean=cn.practice.BZhan._05_aop.ProxyFactoryBean

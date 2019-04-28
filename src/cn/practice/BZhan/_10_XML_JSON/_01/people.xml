@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pelple>
+    <person personid="E01">
+        <name>tony blair</name>
+        <address>dowing</address>
+        <tel>15623552283</tel>
+        <fax>(025)56</fax>
+        <email>15623552283@163.com</email>
+    </person>
+
+    <person personid="E02">
+        <name>tony blair</name>
+        <address>dowing</address>
+        <tel>15623552283</tel>
+        <fax>(025)56</fax>
+        <email>15623552283@163.com</email>
+    </person>
+</pelple>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_181" class="java.beans.XMLDecoder">
+ <object class="cn.practice.BZhan._10_XML_JSON._01.Person">
+  <void property="email">
+   <string>email</string>
+  </void>
+  <void property="fax">
+   <string>fax</string>
+  </void>
+  <void property="name">
+   <string>name</string>
+  </void>
+  <void property="personid">
+   <string>546</string>
+  </void>
+  <void property="tel">
+   <string>tel</string>
+  </void>
+ </object>
+</java>
