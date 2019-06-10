@@ -1,10 +1,16 @@
 package cn.practice.Tools;
 
 public class TreeNode{
-    int val;
-    TreeNode left;
-    TreeNode right;
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
     public TreeNode(int val) {
         this.val = val;
+    }
+
+    public TreeNode(){}
+
+    public TreeNode getRoot(){
+        return this;
     }
 }

@@ -1,0 +1,3 @@
+bean.target=cn.practice.Others._01_BasicJavaMethod.BZhan._05_aop.IManagerImpl
+bean.advice=cn.practice.Others._01_BasicJavaMethod.BZhan._05_aop.LogAdvice
+bean=cn.practice.Others._01_BasicJavaMethod.BZhan._05_aop.ProxyFactoryBean

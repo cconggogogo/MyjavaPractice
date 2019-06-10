@@ -9,10 +9,10 @@ import java.util.TreeMap;
 
 public class Demo5 {
     public static void main(String[] args) {
-        prit();
+        print();
     }
 
-    public static void prit(){
+    public static void print(){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt(); // 格式
         TreeMap<Integer, ArrayList<Integer>> map = new TreeMap<>();
