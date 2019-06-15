@@ -3,7 +3,7 @@ package cn.practice.Algorithm.Leetcode.cys2018._04_Binarysearch;
 import org.junit.Test;
 
 /**
- * 5. 旋转数组的最小数字（部分有序的数组中的最小值）
+ * 5. 旋转数组的最小数字（部分有序的数组中的最小值），由本来递增的数组在某个位置进行了旋转导致的
  *
  * 5. 旋转数组的最小数字
  */
@@ -12,7 +12,9 @@ public class _05_findMin {
     public void test(){
 //        int[] nums = {7,8,9,10,1,2,3};
 //        int[] nums = {1,2,3,7,8,9,10};
-        int[] nums = {1,2,3,1,2,3,4,5};
+//        int[] nums = {1,2,3,1,2,3,4,5};
+          int[] nums = {7,8,9,10,1,2,11};
+
         System.out.println(findMin(nums));
     }
     public int findMin(int[] nums){

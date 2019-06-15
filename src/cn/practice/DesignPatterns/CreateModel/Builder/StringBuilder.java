@@ -7,7 +7,7 @@ public class StringBuilder extends AbstractStringBuilder {
 
     @Override
     public String toString() {
-        // Create a copy, don't share the array
+        // Create a copy, don't share the _03_array
         return new String(value, 0, count);
     }
 }

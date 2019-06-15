@@ -5,7 +5,61 @@
     <bookmark url="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_11_partitionLabels.java" line="29" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9891277-614a-447e-8385-daa5533d75ef" name="Default Changelist" comment="" />
+    <list default="true" id="e9891277-614a-447e-8385-daa5533d75ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_01_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_02_LinkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_03_TreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_04_Dynamic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_05_DoublePointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_06_SortDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_07_TanXinSuanfa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_08_Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_04_getDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_04_getDepth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/DataStructure/array/BIngJi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/DataStructure/array/ChaJi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/DataStructure/array/JiaoJi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/DataStructure/array/MidNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/DataStructure/sort/GuiBing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/DataStructure/sort/Insert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/DataStructure/sort/QuickSort/Min_K.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/DataStructure/sort/Select.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/DataStructure/sort/Swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/DataStructure/sort/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/before/_33_search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_01_topKFrequent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_01_topKFrequent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_02_frequencySort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_02_frequencySort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_09_checkPossibility.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_09_checkPossibility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_05_findMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_05_findMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_01_climbStairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_01_climbStairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_02_rob.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_02_rob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Demo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java工程的练习/cn/practice/Demo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/array/BIngJi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_03_array/BIngJi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/array/ChaJi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_03_array/ChaJi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/array/JiaoJi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_03_array/JiaoJi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/array/MidNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_03_array/MidNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/sort/GuiBing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_04_sort/GuiBing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/sort/Insert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_04_sort/Insert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/sort/QuickSort/Min_K.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_04_sort/QuickSort/Min_K.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/sort/Select.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_04_sort/Select.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/sort/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_04_sort/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/sort/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_04_sort/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/before/_13_ThreeSumClosest/ThreeSumClosest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/before/_13_ThreeSumClosest/ThreeSumClosest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/before/_18_FourSum/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/before/_18_FourSum/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/before/_25RemoveDumplicates/RemoveDumplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/before/_25RemoveDumplicates/RemoveDumplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/before/_33_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_07_search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_02_frequencySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_02_frequencySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_09_checkPossibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_09_checkPossibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_10_maxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_10_maxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_05_findMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_05_findMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_01_climbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_01_climbStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_02_rob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_02_rob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/Demo5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/practice/DesignPatterns/CreateModel/Builder/StringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/practice/DesignPatterns/CreateModel/Builder/StringBuilder.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -216,6 +270,37 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-983732634">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.107" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="187" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="187" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="21" />
+          <entry key="java" value="13586" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="13586" />
+          <entry key="PLAIN_TEXT" value="21" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="jdom">
@@ -224,7 +309,26 @@
     </favorites_list>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_08_Binary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_01_mySqrt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -244,11 +348,12 @@
       <find>Parallel</find>
       <find>映射</find>
       <find>TreeNode</find>
-      <find>部分</find>
       <find>快速</find>
       <find>第</find>
       <find>求数组</find>
       <find>whil</find>
+      <find>k</find>
+      <find>部分</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -256,6 +361,7 @@
     <dirStrings>
       <dir>F:\java工程的练习\src\cn\practice\basis\grammar</dir>
       <dir>F:\myJavaPractice\src\cn\practice\bishiti\zijietiaodong</dir>
+      <dir>F:\MyjavaPractice\src\cn\practice\Algorithm\Leetcode\cys2018\_04_Binarysearch</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -280,29 +386,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/practice/Demo5.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/Ohters/readme.txt" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Interview/array/MidNumber.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/array/MidNumber.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Others/_01_BasicJavaMethod/BZhan/_10_XML_JSON/_03/XMLDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Others/_02_BZhan/_10_XML_JSON/_02/XMLDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Others/_02_BZhan/_10_XML_JSON/_04/Dom4jParseXML.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Others/_02_BZhan/_09_Annotation/AnnotationTest.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Others/_02_BZhan/_05_aop/ProxyFactoryBean.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Others/_01_BasicJavaMethod/BZhan/_05_aop/AOPTest.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Others/_01_BasicJavaMethod/BZhan/_10_XML_JSON/_05/XMLEncoderDemo.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_01_twoSum.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_02_judgeSquareSum.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_03_reverseVowels.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_04_validPalindrome.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_05_merge.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_06_hasCycle.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_07_findLongestWord.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/_01_findKthLargest.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/_02_topKFrequent.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_02_topKFrequent.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/QuickSort/_01_findKthLargest.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_02_frequencySort.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_03_sortColors.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_01_findContentChildren.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_02_eraseOverlapIntervals.java" />
@@ -312,7 +402,6 @@
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_06_maxProfit.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_07_canPlaceFlowers.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_08_isSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_09_checkPossibility.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_10_maxSubArray.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_11_partitionLabels.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_01_binarySearch.java" />
@@ -320,17 +409,34 @@
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_02_nextGreatestLetter.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_03_singleNonDuplicate.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_04_firstBadVersion.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_05_findMin.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_06_searchRange.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_05_DivideandConquer/_01_diffWaysToCompute.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_05_DivideandConquer/_02_generateTrees.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_01_climbStairs.java" />
-        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_02_rob.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_03_rob.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_04_Letter.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_05_cow.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_01_topKFrequent.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/before/_33_search.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_05_findMin.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_07_search.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_01_climbStairs.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_02_rob.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/sort/Swap.java" />
         <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_04_getDepth.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/TreeTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/sort.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/LinkTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/Dynamic.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_06_hasCycle.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/DoublePointer.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_04_Dynamic.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_05_DoublePointer.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_02_frequencySort.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_06_SortDemo.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_09_checkPossibility.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_07_TanXinSuanfa.java" />
+        <option value="$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_08_Binary.java" />
       </list>
     </option>
   </component>
@@ -352,10 +458,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="363" />
-    <option name="y" value="135" />
-    <option name="width" value="1025" />
-    <option name="height" value="747" />
+    <option name="x" value="329" />
+    <option name="y" value="56" />
+    <option name="width" value="960" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -363,41 +469,126 @@
       <flattenPackages ProjectPane="false" />
       <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames ProjectPane="true" />
-      <autoscrollToSource ProjectPane="true" />
+      <autoscrollToSource ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="myJavaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="myJavaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="myJavaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="myJavaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myJavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="cys2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="cys2018" type="462c0819:PsiDirectoryNode" />
+              <item name="_04_Binarysearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="myCodePractice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview" type="462c0819:PsiDirectoryNode" />
+              <item name="tengxun" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview" type="462c0819:PsiDirectoryNode" />
+              <item name="tengxun" type="462c0819:PsiDirectoryNode" />
+              <item name="cicycle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyjavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyjavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview" type="462c0819:PsiDirectoryNode" />
+              <item name="tengxun" type="462c0819:PsiDirectoryNode" />
+              <item name="cicycle" type="462c0819:PsiDirectoryNode" />
+              <item name="hasCicycle.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -408,8 +599,8 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/myJavaPractice/src/cn/practice/Tools/TreeNode.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560148979711" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560566188817" />
+    <property name="last_opened_file_path" value="F:/github项目fork/CS-Notes" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -418,24 +609,24 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\myJavaPractice\src\cn\practice\BZhan\_13_JDBC\itcast1\jdbc" />
-      <recent name="F:\myJavaPractice\src\cn\practice\BZhan\_11_JSON\json" />
-      <recent name="E:\java工程的练习" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="cn.practice.Algorithm.Leetcode.cys2018._06_dynamicProgramming._01_Fibonaccisequence" />
-      <recent name="cn.practice.Algorithm.Leetcode.cys2018._03_GreedyAlgorithm" />
-      <recent name="cn.practice.bishiti.jianzhioffer" />
-      <recent name="cn.practice.bishiti.dynamicPlanning.feibolaqi" />
-      <recent name="cn.practice.BZhan._10_XML_JSON._05" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\myJavaPractice\src\cn\practice\Algorithm\Leetcode\cys2018\_02_Sort" />
       <recent name="F:\myJavaPractice\src\cn\practice\bishiti\huawei" />
       <recent name="F:\myJavaPractice\src\cn\practice\bishiti\array" />
       <recent name="F:\myJavaPractice\lib" />
       <recent name="F:\myJavaPractice\src\cn\practice\BZhan\_13_JDBC\itcast1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.practice.Algorithm.Leetcode.cys2018._04_Binarysearch" />
+      <recent name="cn.practice.Algorithm.Leetcode.cys2018._06_dynamicProgramming._01_Fibonaccisequence" />
+      <recent name="cn.practice.Algorithm.Leetcode.cys2018._03_GreedyAlgorithm" />
+      <recent name="cn.practice.bishiti.jianzhioffer" />
+      <recent name="cn.practice.bishiti.dynamicPlanning.feibolaqi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\myJavaPractice\src\cn\practice\BZhan\_13_JDBC\itcast1\jdbc" />
+      <recent name="F:\myJavaPractice\src\cn\practice\BZhan\_11_JSON\json" />
+      <recent name="E:\java工程的练习" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -450,76 +641,77 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit._01_topKFrequent.test">
-    <configuration name="Cows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.practice.Algorithm.feibolaqi.Cows" />
+  <component name="RunManager" selected="JUnit._10_maxSubArray.test">
+    <configuration name="_06_SortDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java工程的练习" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.practice.Algorithm.feibolaqi.*" />
+          <option name="PATTERN" value="cn.practice.Algorithm.myCodePractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="cn.practice.Algorithm.myCodePractice" />
+      <option name="MAIN_CLASS_NAME" value="cn.practice.Algorithm.myCodePractice._06_SortDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01_diffWaysToCompute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="_06_SortDemo.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java工程的练习" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.practice.Algorithm.Leetcode.cys2018._05_DivideandConquer.*" />
+          <option name="PATTERN" value="cn.practice.Algorithm.myCodePractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.practice.Algorithm.Leetcode.cys2018._05_DivideandConquer" />
-      <option name="MAIN_CLASS_NAME" value="cn.practice.Algorithm.Leetcode.cys2018._05_DivideandConquer._01_diffWaysToCompute" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_01_diffWaysToCompute.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java工程的练习" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.practice.Algorithm.Leetcode.cys2018._05_DivideandConquer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.practice.Algorithm.Leetcode.cys2018._05_DivideandConquer" />
-      <option name="MAIN_CLASS_NAME" value="cn.practice.Algorithm.Leetcode.cys2018._05_DivideandConquer._01_diffWaysToCompute" />
+      <option name="PACKAGE_NAME" value="cn.practice.Algorithm.myCodePractice" />
+      <option name="MAIN_CLASS_NAME" value="cn.practice.Algorithm.myCodePractice._06_SortDemo" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01_topKFrequent.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="_07_TanXinSuanfa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java工程的练习" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.practice.Algorithm.Leetcode.cys2018._02_Sort.Bucket.*" />
+          <option name="PATTERN" value="cn.practice.Algorithm.myCodePractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.practice.Algorithm.Leetcode.cys2018._02_Sort.Bucket" />
-      <option name="MAIN_CLASS_NAME" value="cn.practice.Algorithm.Leetcode.cys2018._02_Sort.Bucket._01_topKFrequent" />
+      <option name="PACKAGE_NAME" value="cn.practice.Algorithm.myCodePractice" />
+      <option name="MAIN_CLASS_NAME" value="cn.practice.Algorithm.myCodePractice._07_TanXinSuanfa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07_TanXinSuanfa.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java工程的练习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.practice.Algorithm.myCodePractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.practice.Algorithm.myCodePractice" />
+      <option name="MAIN_CLASS_NAME" value="cn.practice.Algorithm.myCodePractice._07_TanXinSuanfa" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_cow.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="_10_maxSubArray.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java工程的练习" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.practice.Algorithm.Leetcode.cys2018._06_dynamicProgramming._01_Fibonaccisequence.*" />
+          <option name="PATTERN" value="cn.practice.Algorithm.Leetcode.cys2018._03_GreedyAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.practice.Algorithm.Leetcode.cys2018._06_dynamicProgramming._01_Fibonaccisequence" />
-      <option name="MAIN_CLASS_NAME" value="cn.practice.Algorithm.Leetcode.cys2018._06_dynamicProgramming._01_Fibonaccisequence._05_cow" />
+      <option name="PACKAGE_NAME" value="cn.practice.Algorithm.Leetcode.cys2018._03_GreedyAlgorithm" />
+      <option name="MAIN_CLASS_NAME" value="cn.practice.Algorithm.Leetcode.cys2018._03_GreedyAlgorithm._10_maxSubArray" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -527,19 +719,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit._01_diffWaysToCompute.test" />
-      <item itemvalue="JUnit._01_diffWaysToCompute" />
-      <item itemvalue="JUnit._05_cow.test" />
-      <item itemvalue="Application.Cows" />
-      <item itemvalue="JUnit._01_topKFrequent.test" />
+      <item itemvalue="JUnit._06_SortDemo.test" />
+      <item itemvalue="JUnit._06_SortDemo" />
+      <item itemvalue="JUnit._07_TanXinSuanfa.test" />
+      <item itemvalue="JUnit._07_TanXinSuanfa" />
+      <item itemvalue="JUnit._10_maxSubArray.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit._01_topKFrequent.test" />
-        <item itemvalue="JUnit._05_cow.test" />
-        <item itemvalue="Application.Cows" />
-        <item itemvalue="JUnit._01_diffWaysToCompute" />
-        <item itemvalue="JUnit._01_diffWaysToCompute.test" />
+        <item itemvalue="JUnit._10_maxSubArray.test" />
+        <item itemvalue="JUnit._07_TanXinSuanfa" />
+        <item itemvalue="JUnit._07_TanXinSuanfa.test" />
+        <item itemvalue="JUnit._06_SortDemo.test" />
+        <item itemvalue="JUnit._06_SortDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -620,43 +812,45 @@
       <workItem from="1559804681113" duration="4012000" />
       <workItem from="1559974249068" duration="23370000" />
       <workItem from="1560092402140" duration="6918000" />
+      <workItem from="1560149352083" duration="1296000" />
+      <workItem from="1560173102695" duration="28813000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_06_searchRange_test - 2019.06.09 at 16h 36m 49s.xml">
-      <configuration name="_06_searchRange.test" configurationId="JUnit" />
+    <history-entry file="_06_SortDemo_test - 2019.06.14 at 15h 18m 59s.xml">
+      <configuration name="_06_SortDemo.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="_06_searchRange_test - 2019.06.09 at 16h 37m 00s.xml">
-      <configuration name="_06_searchRange.test" configurationId="JUnit" />
+    <history-entry file="_06_SortDemo - 2019.06.14 at 15h 20m 13s.xml">
+      <configuration name="_06_SortDemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="_06_searchRange - 2019.06.09 at 16h 38m 12s.xml">
-      <configuration name="_06_searchRange" configurationId="JUnit" />
+    <history-entry file="_06_SortDemo - 2019.06.14 at 15h 21m 02s.xml">
+      <configuration name="_06_SortDemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="_01_diffWaysToCompute_test - 2019.06.09 at 16h 47m 44s.xml">
-      <configuration name="_01_diffWaysToCompute.test" configurationId="JUnit" />
+    <history-entry file="_06_SortDemo - 2019.06.14 at 15h 22m 13s.xml">
+      <configuration name="_06_SortDemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="_01_diffWaysToCompute - 2019.06.09 at 16h 48m 28s.xml">
-      <configuration name="_01_diffWaysToCompute" configurationId="JUnit" />
+    <history-entry file="_06_SortDemo - 2019.06.14 at 15h 22m 32s.xml">
+      <configuration name="_06_SortDemo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="_01_diffWaysToCompute - 2019.06.09 at 16h 50m 21s.xml">
-      <configuration name="_01_diffWaysToCompute" configurationId="JUnit" />
+    <history-entry file="_06_SortDemo_test - 2019.06.14 at 15h 24m 11s.xml">
+      <configuration name="_06_SortDemo.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="_05_cow_test - 2019.06.09 at 17h 19m 51s.xml">
-      <configuration name="_05_cow.test" configurationId="JUnit" />
+    <history-entry file="_06_SortDemo_test - 2019.06.14 at 15h 39m 56s.xml">
+      <configuration name="_06_SortDemo.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="_05_cow_test - 2019.06.09 at 17h 20m 05s.xml">
-      <configuration name="_05_cow.test" configurationId="JUnit" />
+    <history-entry file="_07_TanXinSuanfa_test - 2019.06.14 at 16h 13m 29s.xml">
+      <configuration name="_07_TanXinSuanfa.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="_05_cow_test - 2019.06.09 at 17h 20m 26s.xml">
-      <configuration name="_05_cow.test" configurationId="JUnit" />
+    <history-entry file="_07_TanXinSuanfa - 2019.06.14 at 16h 14m 01s.xml">
+      <configuration name="_07_TanXinSuanfa" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="_01_topKFrequent_test - 2019.06.10 at 10h 02m 50s.xml">
-      <configuration name="_01_topKFrequent.test" configurationId="JUnit" />
+    <history-entry file="_10_maxSubArray_test - 2019.06.15 at 10h 14m 37s.xml">
+      <configuration name="_10_maxSubArray.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="548921000" />
+    <option name="totallyTimeSpent" value="579030000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -669,6 +863,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.51111114" side_tool="true" weight="0.17019667" />
       <window_info id="Designer" order="1" />
@@ -677,7 +872,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.4888889" visible="true" weight="0.21482602" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.4888889" visible="true" weight="0.22087745" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32307693" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.22123894" />
@@ -686,13 +881,13 @@
       <window_info anchor="bottom" id="TODO" order="5" weight="0.44273505" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.32918552" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" visible="true" weight="0.3897436" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.3890785" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.51452994" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.26725665" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.26666668" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32991454" />
-      <window_info anchor="bottom" x="0" y="0" width="1366" height="728" id="Run" order="14" type="SLIDING" weight="0.38053098" />
+      <window_info anchor="bottom" x="0" y="0" width="1366" height="728" id="Run" order="14" type="SLIDING" weight="0.25641027" />
       <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.32991454" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -723,406 +918,86 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/before/Array/Test30.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/sort/Select.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_10_PreManToPost.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="168">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/sort/Swap.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_11_SortedTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="-158">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_03_sortColors.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_12_PostDiGui.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="164">
+          <caret line="40" column="27" lean-forward="true" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_01_findContentChildren.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_13_SwapAllNodes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="35" column="23" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="23" />
+        <state relative-caret-position="231">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_14_DeleteXSon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_15_WPL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_03_TreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="217" column="24" selection-start-line="217" selection-start-column="24" selection-end-line="217" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_02_eraseOverlapIntervals.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_03_array/JiaoJi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="312">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_03_findMinArrowShots.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_03_array/BIngJi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="207">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/develop/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_03_array/MidNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="664" selection-start-line="664" selection-end-line="664" />
+        <state relative-caret-position="325">
+          <caret line="64" column="52" lean-forward="true" selection-start-line="64" selection-start-column="52" selection-end-line="64" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/develop/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="584" column="24" selection-start-line="584" selection-start-column="24" selection-end-line="584" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_04_reconstructQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_05_maxProfit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_06_maxProfit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_07_canPlaceFlowers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_08_isSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_09_checkPossibility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_10_maxSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_Binarysearch.java" />
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_11_partitionLabels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#1581#1582#0" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_01_mySqrt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_01_binarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="66" column="11" lean-forward="true" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_02_nextGreatestLetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_03_singleNonDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_04_firstBadVersion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-          <folding>
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_05_findMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_06_searchRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/develop/Java/jdk1.8.0_181/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Tools/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_05_DivideandConquer/_01_diffWaysToCompute.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Interview/tengxun/cicycle/hasCicycle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="33" column="35" lean-forward="true" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_05_DivideandConquer/_02_generateTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="40" column="23" lean-forward="true" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_03_rob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_01_climbStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_02_rob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_04_Letter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/feibolaqi/MoneyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/feibolaqi/Cows.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_06_dynamicProgramming/_01_Fibonaccisequence/_05_cow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Interview/tengxun/mianshi/CountIp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="65" column="32" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="65" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_02_judgeSquareSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_03_reverseVowels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/QuickSort/_01_findKthLargest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_01_topKFrequent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="101" column="13" lean-forward="true" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_02_frequencySort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_07_width.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_03_PostNon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_05_Bianli.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-441">
-          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_04_getDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="88" column="38" selection-start-line="88" selection-start-column="38" selection-end-line="88" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_01_PreNon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_02_TreePractice/practice/_02_InNon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_01_LinkedListPractice/practice/LianBiaoReverse_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_01_LinkedListPractice/practice/GuiBingTwoSortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1133,10 +1008,302 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_01_LinkedListPractice/practice/GuiBingTwoSortedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_01_LinkedListPractice/practice/JiaoDianAandB.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/DataStructure/_01_LinkedListPractice/practice/LianBiaoReverse_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_02_LinkTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/feibolaqi/FeiBoLaQiArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/feibolaqi/Cows.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/feibolaqi/MoneyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/feibolaqi/RobberyCirycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_01_twoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_02_judgeSquareSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_03_reverseVowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="23" selection-start-line="23" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_04_validPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_05_merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_06_hasCycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_01_DoublePointer/_07_findLongestWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_05_DoublePointer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="127" column="24" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_04_Dynamic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_01_topKFrequent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="100" column="41" selection-start-line="100" selection-start-column="41" selection-end-line="100" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/develop/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="621" column="15" selection-start-line="621" selection-start-column="15" selection-end-line="621" selection-end-column="15" />
+          <folding>
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_03_sortColors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/Bucket/_02_frequencySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_02_Sort/QuickSort/_01_findKthLargest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="84" column="50" lean-forward="true" selection-start-line="84" selection-start-column="50" selection-end-line="84" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_06_SortDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="81" column="22" lean-forward="true" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2332#2333#0" expanded="true" />
+            <element signature="e#2378#2379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_01_findContentChildren.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_02_eraseOverlapIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="44" column="34" lean-forward="true" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_03_findMinArrowShots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_04_reconstructQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_05_maxProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_06_maxProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_07_canPlaceFlowers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_08_isSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_09_checkPossibility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_10_maxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_03_GreedyAlgorithm/_11_partitionLabels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+          <folding>
+            <element signature="e#1897#1898#0" expanded="true" />
+            <element signature="e#1927#1928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_07_TanXinSuanfa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="148" column="76" lean-forward="true" selection-start-line="148" selection-start-column="76" selection-end-line="148" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3745#3746#0" expanded="true" />
+            <element signature="e#3774#3775#0" expanded="true" />
+            <element signature="e#3624#3625#0" expanded="true" />
+            <element signature="e#3677#3678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_01_sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_01_binarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="65" column="32" lean-forward="true" selection-start-line="65" selection-start-column="32" selection-end-line="65" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/Leetcode/cys2018/_04_Binarysearch/_01_mySqrt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="40" column="17" lean-forward="true" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/practice/Algorithm/myCodePractice/_08_Binary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>

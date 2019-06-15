@@ -1,7 +1,7 @@
 package cn.practice.Algorithm.Leetcode.before._25RemoveDumplicates;
 
 /**
- * given input array nums = [1,1,2,2,3,4,5,6]
+ * given input _03_array nums = [1,1,2,2,3,4,5,6]
  * result: [1,2,3,4,5,6] 6个
  *
  * time:O(n)

@@ -27,6 +27,8 @@ public class _02_frequencySort {
     public void test(){
         System.out.println(new _02_frequencySort().frencySort("tree"));
     }
+
+
     public String frencySort(String s){
         Map<Character, Integer> frequencyForNum = new HashMap<>();
         for (char c: s.toCharArray()){

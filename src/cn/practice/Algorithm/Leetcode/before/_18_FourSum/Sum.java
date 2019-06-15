@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 找出数组中4个数之和为target的组合
- * Given array nums = [1, 0, -1, 0, -2, 2], and target = 0.
+ * Given _03_array nums = [1, 0, -1, 0, -2, 2], and target = 0.
  *
  * A solution set is:
  * [

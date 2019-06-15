@@ -19,4 +19,12 @@ public class _02_rob {
         }
         return pre1;
     }
+
+    public int rob2(int[] nums, int index){
+        if (index == 1)
+            return nums[0];
+        if (index == 2)
+            return Math.max(nums[0], nums[1]);
+        return Math.max(rob2(nums, index - 1),rob2(nums,index-2) + nums[index]);
+    }
 }

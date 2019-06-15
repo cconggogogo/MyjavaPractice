@@ -1,5 +1,7 @@
 package cn.practice.Algorithm.Leetcode.cys2018._06_dynamicProgramming._01_Fibonaccisequence;
 
+import org.junit.Test;
+
 /**
  * 1. 爬楼梯
  *
@@ -14,6 +16,11 @@ package cn.practice.Algorithm.Leetcode.cys2018._06_dynamicProgramming._01_Fibona
  * 考虑到 dp[i] 只与 dp[i - 1] 和 dp[i - 2] 有关，因此可以只用两个变量来存储 dp[i - 1] 和 dp[i - 2]，使得原来的 O(N) 空间复杂度优化为 O(1) 复杂度。
  */
 public class _01_climbStairs {
+    @Test
+    public void test(){
+        System.out.println(climbStairs(10));
+        System.out.println(climbStairs2(10));
+    }
     public int climbStairs(int n){
         if (n <= 2)
             return n;
@@ -24,5 +31,11 @@ public class _01_climbStairs {
             pre1 = cur;
         }
         return pre1;
+    }
+
+    public int climbStairs2(int n){
+        if (n <= 2)
+            return n;
+        return climbStairs2(n - 1) + climbStairs2(n - 2);
     }
 }

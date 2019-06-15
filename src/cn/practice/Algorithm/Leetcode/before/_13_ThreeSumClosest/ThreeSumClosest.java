@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * for example :
- * given array = {-1,2,1,-4}
+ * given _03_array = {-1,2,1,-4}
  * target = 1;
  * the sum that is closest to the target
  * -1 + 2 + 1 = 2 is closest to target(1)
