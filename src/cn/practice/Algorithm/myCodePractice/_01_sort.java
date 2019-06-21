@@ -3,6 +3,9 @@ package cn.practice.Algorithm.myCodePractice;
 import java.util.HashSet;
 import java.util.PriorityQueue;
 
+/**
+ * 折半插入和红白蓝不要等号，其他(快速排序)不需要
+ */
 public class _01_sort {
     public void insert(int[] nums){
         for (int i = 0; i < nums.length;i++){

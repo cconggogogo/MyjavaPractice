@@ -29,7 +29,7 @@ public class Min_K {
         int j=high;
         int temp=a[low];
         while(i<j){
-            while(i<j&&a[j]>temp){
+            while(i<j&&a[j]>=temp){
                 j--;
             }
             if(i<j){
