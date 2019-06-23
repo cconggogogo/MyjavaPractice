@@ -2,9 +2,9 @@ package cn.practice.Algorithm.myCodePractice;
 
 import cn.practice.Tools.ListNode;
 import cn.practice.Tools.TreeNode;
+import org.junit.Test;
 
-import java.util.Deque;
-import java.util.Stack;
+import java.util.*;
 
 public class Temp {
     public void insert(int[] arr){
@@ -298,7 +298,24 @@ public class Temp {
     }
     public int getDepth2(TreeNode root){
         if (root == null) return 0;
-        Deque<TreeNode>
+        Deque<TreeNode> queue = new ArrayDeque<>();
+        int level = 0;
+        TreeNode last = root;
+        queue.add(root);
+        while (!queue.isEmpty()){
+            TreeNode node = queue.pop();
+            if (node.left != null){
+                queue.add(node.left);
+            }
+            if (node.right != null){
+                queue.add(node.right);
+            }
+            if (node == last){
+                level++;
+                last = queue.peekLast();
+            }
+        }
+        return level;
     }
     /**
      * 最小高度
@@ -314,4 +331,99 @@ public class Temp {
             return LD < RD ? LD + 1 : RD + 1;
         }
     }
+
+    public HashMap<Integer,Integer> getWidth(TreeNode root){
+        HashMap<Integer,Integer> hm = new HashMap<>();
+        if (root == null)
+            return new HashMap<>();
+        else {
+            hm.put(1,1);
+            Deque<TreeNode> queue = new ArrayDeque<>();
+            TreeNode last = root;
+            int level = 1;
+            queue.add(root);
+            while (!queue.isEmpty()){
+                TreeNode node = queue.pop();
+                if (node.left!=null){
+                    queue.add(node.left);
+                }
+                if (node.right!=null){
+                    queue.add(node.right);
+                }
+                if (node == last){
+                    ++level;
+                    hm.put(level,queue.size());
+                    last = queue.peekLast();
+                }
+            }
+            return hm;
+        }
+    }
+    public int nodeCount(TreeNode root){
+        if (root == null) return 0;
+        else {
+            return nodeCount(root.left) + nodeCount(root.right) + 1;
+        }
+    }
+    public int singleNode(TreeNode root){
+        if (root == null) return 0;
+        else if (root.left == null && root.right == null) return 0;
+        else if (root.left!=null && root.right!=null)
+            return singleNode(root.left) + singleNode(root.right);
+        else {
+            return singleNode(root.left) + singleNode(root.right) + 1;
+        }
+    }
+    public int leafNode(TreeNode root){
+        if (root == null) return 0;
+        else if (root.left == null && root.right == null) return 1;
+        else {
+            return leafNode(root.left) + leafNode(root.right);
+        }
+    }
+    public int twoNode(TreeNode root){
+        if (root == null) return 0;
+        else if (root.left != null && root.right !=null){
+            return twoNode(root.left) + twoNode(root.right) + 1;
+        } else {
+            return twoNode(root.left) + twoNode(root.right);
+        }
+    }
+
+    public TreeNode createBt(int[] pre,int[] in,int l1,int r1,int l2,int r2){
+        if (l1 > r1)
+            return null;
+        TreeNode root = new TreeNode(pre[l1]);
+        int i = l1;
+        while (i<r1){
+            if (in[i] == pre[l1]){
+                break;
+            }
+        }
+        root.left = createBt(pre,in,l1 + 1,i-l2+l1,l2+1,i-1);
+        root.right = createBt(pre,in,l1+i-l2+1,r1,i+1,r2);
+        return root;
+    }
+
+    public int midNumber(int[] arr){
+        int n = 0;
+        PriorityQueue<Integer> queue1 = new PriorityQueue<>((a,b) -> b - a);
+        PriorityQueue<Integer> queue2 = new PriorityQueue<>();
+        for (int i = 0; i < arr.length; i++){
+            if (n % 2 == 0){
+                queue1.add(arr[i]);
+                queue2.add(queue1.poll());
+            } else {
+                queue2.add(arr[i]);
+                queue1.add(queue2.poll());
+            }
+            n++;
+        }
+        if (n % 2 == 0){
+            return (queue1.peek() + queue2.peek()) / 2;
+        } else {
+            return queue2.peek();
+        }
+    }
+
 }

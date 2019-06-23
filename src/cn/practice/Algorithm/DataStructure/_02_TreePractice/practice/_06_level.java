@@ -34,7 +34,7 @@ public class _06_level {
         if (treeNode.getRoot()!=null){
             queue.add(treeNode);
             while (!queue.isEmpty()){
-                q = queue.poll();
+                q = queue.pop();
                 visit(q);
                 if (q.left!=null)
                     queue.add(q.left);
